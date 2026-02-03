@@ -12,7 +12,6 @@ html {
   display: flex;
   justify-content: center;
   align-content: center;
-  margin: auto;
   padding: 133px 30px;
   inline-size: 1200px;
   block-size: 100%;
